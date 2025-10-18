@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, soy ToniMxntana, antes conocido como "lucas1035_1034"
 
-<!--
-**ToniMxntana/ToniMxntana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧩 Experiencia como Staff
+He sido parte del staff en múltiples servidores, desempeñando roles como **Helper**, **Moderador**, **Sr. Moderador**, **Administrador**, **Operador/ Head Mánager** y **Head Admin**
 
-Here are some ideas to get you started:
+### 🧠 Habilidades destacadas
+- Moderación de jugadores y gestión de comunidad.
+- Detección y sanción de trampas o conductas indebidas.
+- Coordinación de equipos de staff y soporte a jugadores.
+- Configuración básica de plugins y permisos (LuckPerms, Essentials, etc.).
+- Organización de eventos y resolución de conflictos.
+- Experiencia con paneles de administración y mantenimiento general.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto
+- Discord: lucas1035_1034
